@@ -1,2 +1,1 @@
-# Hagrid
-Order Book and Price Action Analytics 
+# Order Book and Price Action Analytics 
